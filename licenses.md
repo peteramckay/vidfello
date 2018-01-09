@@ -1,9 +1,9 @@
-#Software Licenses
+# Software Licenses
 
-###Copyright (c) 2018, Peter A. McKay
+### Copyright (c) 2018, Peter A. McKay
 
 
-#####Creative Commons 4.0
+##### Creative Commons 4.0
 All software documentation is published here under Creative Commons 4.0 license, the full terms of which are available <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">here</a>.
 
 In summary, you are free to:
@@ -28,7 +28,7 @@ This license is acceptable for Free Cultural Works.
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 
-#####GNU General Public License version 3
+##### GNU General Public License version 3
 
 
 All software code here is made available under GNU General Public License version 3, the full terms of which are available <a href="https://opensource.org/licenses/GPL-3.0">here</a>.
@@ -48,7 +48,6 @@ You may convey a work based on the Program, or the modifications to produce it f
   b) The work must carry prominent notices stating that it is released under this License and any conditions added under section 7. This requirement modifies the requirement in section 4 to “keep intact all notices”.
  
  c) You must license the entire work, as a whole, under this License to anyone who comes into possession of a copy. This License will therefore apply, along with any applicable section 7 additional terms, to the whole of the work, and all its parts, regardless of how they are packaged. This License gives no permission to license the work in any other way, but it does not invalidate such permission if you have separately received it.
- 
-    d) If the work has interactive user interfaces, each must display Appropriate Legal Notices; however, if the Program has interactive interfaces that do not display Appropriate Legal Notices, your work need not make them do so.
 
+d) If the work has interactive user interfaces, each must display Appropriate Legal Notices; however, if the Program has interactive interfaces that do not display Appropriate Legal Notices, your work need not make them do so.
 
